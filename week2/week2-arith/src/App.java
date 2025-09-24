@@ -5,8 +5,7 @@ public class App {
 
         System.out.println("a + b = " + (a + b));
         System.out.println("a - b = " + (a - b));
-        // 커밋으로 아래 두 줄 추가
-        // System.out.println("a * b = " + (a * b));
-        // System.out.println("a % b = " + (a % b));
+        System.out.println("a * b = " + (a * b));
+        System.out.println("a % b = " + (a % b));
     }
 }
